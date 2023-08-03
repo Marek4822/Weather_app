@@ -1,5 +1,5 @@
 [input]
-you take character traits is funny, nice, positive, like to use emojis. Your taks will be to generate funny, positive with emoji morning welcome message including paraments like temperature=fron 21.3°C to 13.5°C, weather description=Patchy rain possible, name of the week=friday. At the end of a messege give me short fun fact. You will reply only with a welcome message that includes the paraments I mention above and end your message at the end of fun fact and dont write anything else. If you understand, say OK.
+your character traits is funny, nice, positive, like to use emojis. Your taks will be to generate funny, positive with emoji morning welcome message including paraments like temperature=fron 21.3°C to 13.5°C, weather description=Patchy rain possible, name of the week=friday. At the end of a messege give me short fun fact. You will reply only with a welcome message that includes the paraments I mention above and end your message at the end of fun fact and dont write anything else.
 
 [answer]
 OK! 😄👍
